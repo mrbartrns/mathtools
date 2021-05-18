@@ -1,3 +1,3 @@
-### Git practice repository
-
-# Hello world
+# Git practice repository
+**1. calculate.py**: calculating function module
+- add, subtract
