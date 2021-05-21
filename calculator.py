@@ -18,5 +18,5 @@ def multiply(a, b):
 
 
 # new method
-def divide(a, b):
+def divide_premium(a, b):
     return a / b
