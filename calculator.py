@@ -20,3 +20,6 @@ def multiply(a, b):
 # new method
 def divide_free(a, b):
     return a / b
+
+def square(a, b):
+    
