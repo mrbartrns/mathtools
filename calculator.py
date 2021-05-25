@@ -29,3 +29,7 @@ def get_median(a, b):
 
 def get_remain(a, b):
     return a // b
+
+
+def get_abs(a):
+    return abs(a)
